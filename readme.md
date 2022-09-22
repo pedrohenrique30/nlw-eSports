@@ -7,6 +7,7 @@
 Projeto construido do evento Next Level Week da Rocketseat
 
 🔗 [Clique aqui para acessar](https://pedrohenrique30.github.io/nlw-eSports/nlw-projeto)
+
 ## 🛠 Tecnologias
 
 - HTML
